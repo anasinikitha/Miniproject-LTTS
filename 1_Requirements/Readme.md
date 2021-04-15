@@ -6,7 +6,7 @@
 
 ## Research
  **Department Store Management System Features and Benefits**
- 
+ * The main aim of this project is that it very easy to use i.e, user friendly. Where one can add the items, edit the items, delete the items and can do many more operations and can finally get the total bill of the final items. If wanted to enter the data of new item no need to enter the whole data from the beginning has a feature to add items and can also check the items one has purchased and can delete without disturbing other items in the list. Has many benefits.   
 ## Cost and Features
 ![Description](Link to Pic)
 -- Content 
