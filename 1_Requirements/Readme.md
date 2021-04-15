@@ -7,11 +7,6 @@
 ## Research
  **Department Store Management System Features and Benefits**
  * The main aim of this project is that it very easy to use i.e, user friendly. Where one can add the items, edit the items, delete the items and can do many more operations and can finally get the total bill of the final items. If wanted to enter the data of new item no need to enter the whole data from the beginning has a feature to add items and can also check the items one has purchased and can delete without disturbing other items in the list. Has many benefits.   
-## Cost and Features
-![Description](Link to Pic)
--- Content 
-## Defining Our System
-    -- TBD
 ## SWOT ANALYSIS
 ![Screenshot (655)](https://user-images.githubusercontent.com/67320294/114858728-7af88880-9e07-11eb-9e5d-f4d4a165c1fb.png)
 
@@ -19,11 +14,11 @@
 
 ## Who:
 
-**TBD**
+* Small scale retail shops can use this application.
 
 ## What:
 
-**TBD**
+* It is used to calculate the total bill of the customers
 
 ## When:
 
