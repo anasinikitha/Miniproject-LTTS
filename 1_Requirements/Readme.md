@@ -22,22 +22,13 @@
 
 ## When:
 
-**TBD**
+* Whenever needed it can be used by anyone as it is very simple to use.
 
 ## Where:
 
-**TBD**
+* Can be used in small scale businesses.
 
 ## How:
 
-**TBD**
+* Can be used user manually where need to enter the data or edit or delete.
 
-# Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
-
-
-##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
