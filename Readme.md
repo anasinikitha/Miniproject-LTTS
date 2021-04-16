@@ -17,17 +17,14 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+PS No.   |  Name    |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------  |--------- |----------------|----------------|---------------|-------------|--------------
+`264683` | NIKITHA  | Add or delete or edit the items    | Lots of issues I'm unable | Nothing has been resolved   |  0   |  0    
+``       | ANASI    | and get the total bill of items   | create unity test cases etc    |    |    |    
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Faced challenges in unity testing, static and dynamic codes and implementing.
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
